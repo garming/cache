@@ -1,0 +1,23 @@
+{
+    "name": "phpCacheX/cache",
+    "description": "PHP Cache Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Garming Lau",
+            "email": "garming@msn.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PhpCacheX\\Cache\\": "src/",
+            "PhpCacheX\\Cache\\Lib\\": "src/Lib"
+        }
+    }
+}
