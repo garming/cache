@@ -4,6 +4,7 @@
     "keywords": ["cache", "memcached"],
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/garming/cache/blob/master/README.md",
     "authors": [
         {
             "name": "Garming Lau",
