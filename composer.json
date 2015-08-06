@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.6.0"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "autoload": {
         "psr-4": {
             "PhpCacheX\\Cache\\": "src/",
