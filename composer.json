@@ -1,5 +1,5 @@
 {
-    "name": "phpcachex/cache",
+    "name": "garming/cache",
     "description": "PHP Cache Library",
     "keywords": ["cache", "memcached"],
     "type": "library",
