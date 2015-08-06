@@ -1,6 +1,7 @@
 {
     "name": "phpcachex/cache",
     "description": "PHP Cache Library",
+    "keywords": ["cache", "memcached"],
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,7 +14,6 @@
         "php": ">=5.6.0"
     },
     "minimum-stability": "dev",
-    "require": {},
     "autoload": {
         "psr-4": {
             "PhpCacheX\\Cache\\": "src/",
